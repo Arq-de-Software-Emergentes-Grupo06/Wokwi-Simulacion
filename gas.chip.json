@@ -1,0 +1,31 @@
+{
+  "name": "gas",
+  "author": "Rodrigo",
+  "pins": [
+    "GND",
+    "VCC",
+    "OUT0",
+    "OUT1",
+    "",
+    "",
+    ""
+  ],
+  "controls": [
+    {
+      "id":"gasValue",
+      "label": "Smoke/Gas %",
+      "type": "slider",
+      "min": "0",
+      "max": "100"
+      
+    },
+    {
+      "id": "thresholdValue",
+      "label": "Clean air Threshold %",
+      "type": "slider",
+      "min": "0",
+      "max": "100"
+      
+    }
+  ]
+}
