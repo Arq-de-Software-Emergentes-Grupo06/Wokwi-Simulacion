@@ -1,6 +1,6 @@
 # Wokwi-Simulacion
 
-##Links de sensores en Wokwi
+## Links de sensores en Wokwi
 
 ## Control de Gas
 ### [https://wokwi.com/projects/413180120059730945](https://wokwi.com/projects/413180120059730945)
